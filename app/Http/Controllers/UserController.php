@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * UserController
+ * Handles user-related HTTP requests and operations
+ */
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
