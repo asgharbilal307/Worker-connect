@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Worker Model
+ * Represents a worker entity with skills and job capabilities
+ */
 namespace App\Models;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
