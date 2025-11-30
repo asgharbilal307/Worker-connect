@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * JobPosts Model
+ * Represents job postings in the system
+ */
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
