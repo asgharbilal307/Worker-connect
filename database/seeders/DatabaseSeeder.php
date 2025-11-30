@@ -11,7 +11,8 @@ class DatabaseSeeder extends Seeder
     use WithoutModelEvents;
 
     /**
-     * Seed the application's database.
+     * Seed the application's database with test data.
+     * Runs all configured seeders for the WorkerConnect application.
      */
     public function run(): void
     {
