@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * AuthController
+ * Handles authentication-related operations
+ */
 namespace App\Http\Controllers;
 
 use App\Models\Customer;
