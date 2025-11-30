@@ -9,7 +9,7 @@ use PHPOpenSourceSaver\JWTAuth\Contracts\JWTSubject;
 
 class Worker extends Authenticatable implements JWTSubject
 {
-    //
+    // Worker model for skilled workers in the system
     use HasFactory;
     protected $fillable = [
         'name', 'email','password', 'city', 'gender', 'phone', 'role', 'cnic',
