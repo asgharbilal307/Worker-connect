@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+# WorkerConnect
+
 WorkerConnect is a modern web platform that connects customers with skilled workers such as electricians, plumbers, carpenters, and painters.
-This repository contains the frontend application, built using Vite, React (JavaScript), Tailwind CSS, and lucide-react icons.
+
+This repository contains the backend and frontend application, built using Laravel, React (JavaScript), Tailwind CSS, and lucide-react icons.
 
 The frontend provides interfaces for:
 ✔️ Customers (browse workers, post jobs, manage bids)
