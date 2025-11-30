@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Customer Model
+ * Represents a customer entity in the system
+ */
 namespace App\Models;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
