@@ -16,7 +16,7 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'sqlite'),
+    'default' => env('DB_CONNECTION', 'sqlite'), // Default to SQLite for development
 
     /*
     |--------------------------------------------------------------------------
@@ -26,6 +26,7 @@ return [
     | Below are all of the database connections defined for your application.
     | An example configuration is provided for each database system which
     | is supported by Laravel. You're free to add / remove connections.
+    | WorkerConnect supports multiple database drivers for flexibility.
     |
     */
 
