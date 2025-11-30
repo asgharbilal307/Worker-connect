@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * User Model
+ * Represents a user in the application with authentication capabilities
+ */
 namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
